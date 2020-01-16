@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "307035665023",
+    "firebase_url": "https://hi-locationtracker.firebaseio.com",
+    "project_id": "hi-locationtracker",
+    "storage_bucket": "hi-locationtracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307035665023:android:25672c1fb696710ac4454a",
+        "android_client_info": {
+          "package_name": "com.example.hi_locationtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307035665023-j7kfihpor8a3p9f63rmkl99qmaf87tnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDRlsJMse_4GzrxOShhhlq57Mj9SldoaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307035665023-j7kfihpor8a3p9f63rmkl99qmaf87tnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
